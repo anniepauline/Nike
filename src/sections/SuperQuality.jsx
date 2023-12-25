@@ -9,8 +9,8 @@ import Button from "../components/Button";
 
         <h2 className='mt-10 font-palanquin font-bold text-4xl capitalize lg:max-w-lg'>
           We Provide You
-          <span className='text-coral-red inline-block mt-3'>Super</span> 
-          <span className='text-coral-red inline-block mt-3'>Quality</span> Shoes
+          <span className='text-coral-red inline-block mt-3'> Super</span> 
+          <span className='text-coral-red inline-block mt-3'> Quality</span> Shoes
         </h2>
 
         <p className='mt-4 lg:max-w-lg info-text'>
