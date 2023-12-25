@@ -5,8 +5,8 @@ const CustomerReviews = () => {
   return (
     <section className="max-container">
 
-      <h3 className="text-4xl font-palanquin text-center font-bold">What Our?
-        <span className="text-coral-red">Customers</span>Say?
+      <h3 className="text-4xl font-palanquin text-center font-bold">What Our
+        <span className="text-coral-red"> Customers</span> Say?
       </h3>
 
     <p className="info-text mt-4max-w-lg text-center m-autos">Hear genuine stories from our sttisfies customers about their exceptional experiences with us.</p>
